@@ -1,4 +1,4 @@
-# Data Science with Multiple Agents
+# Data Quality with Multiple Agents
 
 ## Overview
 
@@ -49,7 +49,7 @@ The key features of the Data Quality Multi-Agent include:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://pso-dev-whaite-790757022693-git.us-central1.sourcemanager.dev/pso-dev-whaite/data_quality_agent.git
+    git clone https://github.com/Andres-Ayala1/bq-data-quality-agent.git
     cd data_quality_agent/
     ```
 
